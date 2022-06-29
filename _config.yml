@@ -10,47 +10,15 @@ email: nafisahsani@uabmc.edu
 baseurl: "/ubrite-hackathon-2022" # the subpath of your site, e.g. /blog
 url: "https://www.shauritahutchins.com" # the base hostname & protocol for your site
 social:
-  hashtag_link: https://twitter.com/hashtag/#HackinOmics22
-  hashtag: https://twitter.com/hashtag/#HackinOmics22
-  GitHub: https://github.com/informaticsclub
-  Twitter: https://twitter.com/InformaticsUAB
+  hashtag: "#HackinOmics22"
+  github: https://github.com/informaticsclub
+  twitter: https://twitter.com/InformaticsUAB
   #linkedin-square: https://www.linkedin.com/company/9501702
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
   email: mailto:tmamidi@uab.edu
   #flickr:
   #instagram:
-  #youtube-square:
-  #spotify:
-  #stack-overflow:
-  #vimeo:
-  #reddit:
-  #stubleupon:
-  #delicious:
-  #pied-piper:
-  #digg:
-  #soundcloud:
-  #deviantart:
-  #angellist:
-  #tumblr-square:
-  #stackexchange:
-  #weibo:
-  #trello:
-  #foursquare:
-  #linux:
-  #bitbucket-square:
-  #vk:
-  #slack:
-  #vine:
-  #weixin:
-  #yelp:
-  #skyatlas:
-  #leanpub:
-  #connectdevelop:
-  #ils:
-  #forumbee:
-  #tripadvisor:
-  #amazon:
 
 exclude:
   - Gemfile
