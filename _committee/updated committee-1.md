@@ -3,7 +3,7 @@ layout: default
 title: Committee
 author: Ricardo
 ---
-## Organising Committee
+## Organizing Committee
 
 |**NAME**|**INSTITUTE**|**RESPONSIBILITY**|
 |:---------------------|:----------------:|:----------|
@@ -14,7 +14,7 @@ author: Ricardo
 | David Lloyd                | ELIXIR Hub  | Organiser  |
 | Zippy Tseng                | ELIXIR Hub  | Organiser  |
 
-<h2 class="mt-5">Programme Committee</h2>
+## Steering Committee
 
 |**NAME**|**INSTITUTE**|**RESPONSIBILITY**|
 |:---------------------|:----------------:|:----------|

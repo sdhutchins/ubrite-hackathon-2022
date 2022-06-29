@@ -2,20 +2,22 @@
 #
 
 # Site settings
-title: BioHackathon Europe
-description: Paris 7-11 November 2022
-owner: Elixir Hub # or company name
+title: Hackin' Omics
+description: August 5-6, 2022
+owner: U-BRITE # or company name
 first_published: 2022 # if migrating another site, the year of your first publish
-email: webmaster@elixir-europe.org
+email: nafisahsani@uabmc.edu
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://elixir-europe.github.io/biohackathon-europe-2022/" # the base hostname & protocol for your site
+url: "https://www.shauritahutchins.com/ubrite-hackathon-2022/" # the base hostname & protocol for your site
 social:
-  Twitter: https://twitter.com/hashtag/BioHackEU22
-  GitHub: https://github.com/elixir-europe/biohackathon-europe-2022
+  hashtag_link: https://twitter.com/hashtag/#HackinOmics22
+  hashtag: https://twitter.com/hashtag/#HackinOmics22
+  GitHub: https://github.com/informaticsclub
+  Twitter:https://twitter.com/InformaticsUAB
   #linkedin-square: https://www.linkedin.com/company/9501702
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
-  email: mailto:biohackathon-europe@elixir-europe.org
+  email: mailto:tmamidi@uab.edu
   #flickr:
   #instagram:
   #youtube-square:
@@ -73,5 +75,5 @@ collections:
     output: true
     permalink: /:collection/:path/
   projects:
-    output: true
+    output: false
     permalink: /:collection/:path/
