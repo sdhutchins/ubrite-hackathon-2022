@@ -1,6 +1,3 @@
-# Welcome to Jekyll!
-#
-
 # Site settings
 title: Hackin' Omics
 description: August 5-6, 2022
@@ -9,8 +6,9 @@ first_published: 2022 # if migrating another site, the year of your first publis
 email: nafisahsani@uabmc.edu
 baseurl: "/ubrite-hackathon-2022" # the subpath of your site, e.g. /blog
 url: "https://www.shauritahutchins.com" # the base hostname & protocol for your site
+hashtag: "#HackinOmics22"
+
 social:
-  hashtag: "#HackinOmics22"
   github: https://github.com/informaticsclub
   twitter: https://twitter.com/InformaticsUAB
   #linkedin-square: https://www.linkedin.com/company/9501702
